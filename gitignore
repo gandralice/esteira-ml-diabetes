@@ -1,0 +1,16 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Modelo gerado pelo notebook (é recriado ao executar tudo)
+modelos/
+
+# Sistema
+.DS_Store
